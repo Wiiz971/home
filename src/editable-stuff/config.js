@@ -13,23 +13,23 @@ const mainBody = {
   icons: [
     {
       image: "fa-github",
-      url: "https://github.com/hashirshoaeb",
-    },
-    {
-      image: "fa-facebook",
-      url: "https://www.facebook.com/hashirshoaeb",
-    },
-    {
-      image: "fa-instagram",
-      url: "https://www.instagram.com/hashirshoaeb/",
+      url: "https://github.com/wiiz971",
     },
     {
       image: "fa-linkedin",
-      url: "https://www.linkedin.com/in/hashirshoaeb/",
+      url: "https://www.linkedin.com/in/https://www.linkedin.com/in/vincent-azincourt-a2546316a/",
     },
     {
-      image: "fa-twitter",
-      url: "https://www.twitter.com/hashirshoaeb/",
+      image: "fa-discord",
+      url: "https://discordapp.com/users/216624588887556097",
+    },
+    {
+      image: "fa-paypal",
+      url: "https://www.paypal.com/paypalme/wiiz971",
+    },
+    {
+      image: "fa-gmail",
+      url: "mailto:azinc.vinc@gmail.com",
     },
   ],
 };
