@@ -131,7 +131,7 @@ const getInTouch = {
 };
 
 const experiences = {
-  show: false,
+  show: True,
   heading: "Experiences",
   data: [
     {
